@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tarefa5.API.props" />
+</Project>
