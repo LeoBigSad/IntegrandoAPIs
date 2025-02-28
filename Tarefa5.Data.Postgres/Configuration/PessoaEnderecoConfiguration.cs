@@ -12,13 +12,8 @@ namespace Tarefa5.Data.Postgres.Configuration
 
             builder.HasKey(pe => new { pe.PessoaId, pe.EnderecoId });
 
-            builder.HasOne(pe => pe.Pessoa)
-                .WithMany(p => p.PessoasEnderecos)
-                .HasForeignKey(pe => pe.PessoaId);
-
-            builder.HasOne(pe => pe.Endereco)
-                .WithMany(e => e.PessoasEnderecos)
-                .HasForeignKey(pe => pe.EnderecoId);
+            builder.Property(pe => pe.PessoaId).IsRequired();
+            builder.Property(pe => pe.EnderecoId).IsRequired();
         }
     }
 }

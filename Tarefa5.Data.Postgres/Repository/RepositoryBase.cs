@@ -33,6 +33,10 @@ namespace Tarefa5.Data.Postgres.Repository
             }
             return await query.FirstOrDefaultAsync();
         }
+        public void Attach<TEntity>(TEntity entity) where TEntity : class
+        {
+            _context.Set<TEntity>().Attach(entity);
+        }
 
         public async Task<List<K>> GetAllAsync()
         {

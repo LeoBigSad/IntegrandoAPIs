@@ -366,15 +366,9 @@
             "type": "string",
             "format": "uuid"
           },
-          "pessoa": {
-            "$ref": "#/components/schemas/Pessoa"
-          },
           "enderecoId": {
             "type": "string",
             "format": "uuid"
-          },
-          "endereco": {
-            "$ref": "#/components/schemas/Endereco"
           }
         },
         "additionalProperties": false

@@ -26,10 +26,17 @@ namespace Tarefa5.Service.Services
 
         public async Task<Pessoa> CriarAsync(Pessoa pessoa)
         {
+            foreach (var pessoaEndereco in pessoa.PessoasEnderecos)
+            {
+                pessoaEndereco.PessoaId = pessoa.Id;
+            }
+
             await _pessoaRepository.InsertAsync(pessoa);
             await _unitOfWork.CommitAsync();
             return pessoa;
         }
+
+
 
         public async Task<Pessoa> AtualizarAsync(Pessoa pessoa)
         {
