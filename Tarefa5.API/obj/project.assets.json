@@ -757,6 +757,19 @@
           }
         }
       },
+      "RestSharp/112.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/RestSharp.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/RestSharp.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/7.3.0": {
         "type": "package",
         "dependencies": {
@@ -1131,6 +1144,7 @@
           "Microsoft.EntityFrameworkCore.Proxies": "9.0.2",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.3",
           "Swashbuckle.AspNetCore": "7.3.0",
+          "Tarefa5.Data.Rest": "1.0.0",
           "Tarefa5.Domain": "1.0.0"
         },
         "compile": {
@@ -1169,6 +1183,20 @@
         },
         "runtime": {
           "bin/placeholder/Tarefa5.Data.Postgres.dll": {}
+        }
+      },
+      "Tarefa5.Data.Rest/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "RestSharp": "112.1.0",
+          "Tarefa5.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tarefa5.Data.Rest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tarefa5.Data.Rest.dll": {}
         }
       },
       "Tarefa5.Domain/1.0.0": {
@@ -2971,6 +2999,31 @@
         "postgresql.png"
       ]
     },
+    "RestSharp/112.1.0": {
+      "sha512": "bOUGNZqhhv/QeCXHTKEUil846yBjwWXpzPKjO67kFvaAOoF361z7jLY5BMnuZ6WD2WQRA750sNMcK7MSPCQ5Mg==",
+      "type": "package",
+      "path": "restsharp/112.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net471/RestSharp.dll",
+        "lib/net471/RestSharp.xml",
+        "lib/net48/RestSharp.dll",
+        "lib/net48/RestSharp.xml",
+        "lib/net6.0/RestSharp.dll",
+        "lib/net6.0/RestSharp.xml",
+        "lib/net7.0/RestSharp.dll",
+        "lib/net7.0/RestSharp.xml",
+        "lib/net8.0/RestSharp.dll",
+        "lib/net8.0/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.112.1.0.nupkg.sha512",
+        "restsharp.nuspec",
+        "restsharp.png"
+      ]
+    },
     "Swashbuckle.AspNetCore/7.3.0": {
       "sha512": "xRNYUPor/x/qvtFYF1qeZa9FrQixOOfLDgG+J4FRMWPqXmWjttMNglrjG9ATIUzY27LT/6JHqWFFDvDYw1f2gg==",
       "type": "package",
@@ -3556,6 +3609,11 @@
       "path": "../Tarefa5.Data.Postgres/Tarefa5.Data.Postgres.csproj",
       "msbuildProject": "../Tarefa5.Data.Postgres/Tarefa5.Data.Postgres.csproj"
     },
+    "Tarefa5.Data.Rest/1.0.0": {
+      "type": "project",
+      "path": "../Tarefa5.Data.Rest/Tarefa5.Data.Rest.csproj",
+      "msbuildProject": "../Tarefa5.Data.Rest/Tarefa5.Data.Rest.csproj"
+    },
     "Tarefa5.Domain/1.0.0": {
       "type": "project",
       "path": "../Tarefa5.Domain/Tarefa5.Domain.csproj",
@@ -3582,11 +3640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.API\\Tarefa5.API.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Tarefa5.API.csproj",
       "projectName": "Tarefa5.API",
-      "projectPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.API\\Tarefa5.API.csproj",
+      "projectPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Tarefa5.API.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.API\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3607,14 +3665,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj": {
-              "projectPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj"
+            "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj": {
+              "projectPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj"
             },
-            "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.Data\\Tarefa5.Data.csproj": {
-              "projectPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.Data\\Tarefa5.Data.csproj"
+            "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data\\Tarefa5.Data.csproj": {
+              "projectPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data\\Tarefa5.Data.csproj"
             },
-            "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.Service\\Tarefa5.Application.csproj": {
-              "projectPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.Service\\Tarefa5.Application.csproj"
+            "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Tarefa5.Application.csproj": {
+              "projectPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Tarefa5.Application.csproj"
             }
           }
         }

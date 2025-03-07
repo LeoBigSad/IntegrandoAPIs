@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Tarefa5.Domain.Entity
+﻿namespace Tarefa5.Domain.Entity
 {
     public abstract class Base
     {
@@ -10,9 +8,9 @@ namespace Tarefa5.Domain.Entity
         public DateTime? RemovedDate { get; private set; }
         public bool Removed { get; private set; }
 
-        protected Base()
+        protected Base(Guid id = default)
         {
-            Id = Guid.NewGuid();
+            Id = id == default ? Guid.NewGuid() : id;
             CreatedDate = DateTime.UtcNow;
             Removed = false;
         }
@@ -28,4 +26,5 @@ namespace Tarefa5.Domain.Entity
             Removed = true;
         }
     }
+
 }

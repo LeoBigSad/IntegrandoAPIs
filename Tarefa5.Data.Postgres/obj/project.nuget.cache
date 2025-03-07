@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PTipJ1CVrwo=",
+  "dgSpecHash": "3d5iVUbccNM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

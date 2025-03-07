@@ -33,7 +33,7 @@ namespace Tarefa5.Data.Repository
         {
             foreach (var entry in _context.ChangeTracker.Entries())
             {
-                await entry.ReloadAsync(); // Agora usa a versão assíncrona
+                await entry.ReloadAsync();
             }
         }
 

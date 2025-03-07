@@ -573,6 +573,14 @@
           }
         }
       },
+      "RestSharp/112.1.0": {
+        "runtime": {
+          "lib/net8.0/RestSharp.dll": {
+            "assemblyVersion": "112.1.0.0",
+            "fileVersion": "112.1.0.0"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/7.3.0": {
         "dependencies": {
           "Microsoft.Extensions.ApiDescription.Server": "6.0.5",
@@ -738,6 +746,7 @@
           "Microsoft.EntityFrameworkCore.Proxies": "9.0.2",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.3",
           "Swashbuckle.AspNetCore": "7.3.0",
+          "Tarefa5.Data.Rest": "1.0.0",
           "Tarefa5.Domain": "1.0.0"
         },
         "runtime": {
@@ -769,6 +778,18 @@
         },
         "runtime": {
           "Tarefa5.Data.Postgres.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Tarefa5.Data.Rest/1.0.0": {
+        "dependencies": {
+          "RestSharp": "112.1.0",
+          "Tarefa5.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Tarefa5.Data.Rest.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1027,6 +1048,13 @@
       "path": "npgsql.entityframeworkcore.postgresql/9.0.3",
       "hashPath": "npgsql.entityframeworkcore.postgresql.9.0.3.nupkg.sha512"
     },
+    "RestSharp/112.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bOUGNZqhhv/QeCXHTKEUil846yBjwWXpzPKjO67kFvaAOoF361z7jLY5BMnuZ6WD2WQRA750sNMcK7MSPCQ5Mg==",
+      "path": "restsharp/112.1.0",
+      "hashPath": "restsharp.112.1.0.nupkg.sha512"
+    },
     "Swashbuckle.AspNetCore/7.3.0": {
       "type": "package",
       "serviceable": true,
@@ -1178,6 +1206,11 @@
       "sha512": ""
     },
     "Tarefa5.Data.Postgres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tarefa5.Data.Rest/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

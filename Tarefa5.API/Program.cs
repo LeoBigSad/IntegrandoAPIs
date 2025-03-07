@@ -6,6 +6,9 @@ using Tarefa5.Domain.Interfaces.Repository;
 using Tarefa5.Data.Repository;
 using Tarefa5.Domain.Interfaces.Service;
 using Tarefa5.Service.Services;
+using Tarefa5.Application.Services;
+using Tarefa5.Domain.Interfaces.Rest;
+using Tarefa5.Data.Rest.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +22,11 @@ builder.Services.AddScoped<IEnderecoRepository, EnderecoRepository>();
 builder.Services.AddScoped<IPessoaRepository, PessoaRepository>();
 builder.Services.AddScoped<IEnderecoService, EnderecoService>();
 builder.Services.AddScoped<IPessoaService, PessoaService>();
+builder.Services.AddScoped<IAcademiaService, AcademiaService>();
+builder.Services.AddScoped<IAparelhoService, AparelhoService>();
+builder.Services.AddScoped<IAcademiaRepository, AcademiaRepository>();
+builder.Services.AddScoped<IAparelhoRepository, AparelhoRepository>();
+
 
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
@@ -31,7 +39,6 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

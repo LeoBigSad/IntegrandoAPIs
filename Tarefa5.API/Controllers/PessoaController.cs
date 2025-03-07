@@ -28,7 +28,7 @@ namespace Tarefa5.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] Pessoa pessoa) => Ok(await _pessoaService.CriarAsync(pessoa));
 
-        [HttpPut]
+        [HttpPut("{id}")]
         public async Task<IActionResult> Put([FromBody] Pessoa pessoa) => Ok(await _pessoaService.AtualizarAsync(pessoa));
 
         [HttpDelete("{id}")]

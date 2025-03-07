@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A3J9AGSmS2U=",
+  "dgSpecHash": "P8jMEJimtGo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.Data\\Tarefa5.Data.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data\\Tarefa5.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.2\\microsoft.entityframeworkcore.9.0.2.nupkg.sha512",

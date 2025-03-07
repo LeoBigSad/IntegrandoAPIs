@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FLozb52eg28=",
+  "dgSpecHash": "n8Lc4v+3YTY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.Service\\Tarefa5.Application.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Tarefa5.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -37,6 +37,7 @@
     "C:\\Users\\Administrador\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\9.0.3\\npgsql.entityframeworkcore.postgresql.9.0.3.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\swashbuckle.aspnetcore\\7.3.0\\swashbuckle.aspnetcore.7.3.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.3.0\\swashbuckle.aspnetcore.swagger.7.3.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.3.0\\swashbuckle.aspnetcore.swaggergen.7.3.0.nupkg.sha512",

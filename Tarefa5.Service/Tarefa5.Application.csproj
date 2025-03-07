@@ -22,6 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Tarefa5.Data.Rest\Tarefa5.Data.Rest.csproj" />
     <ProjectReference Include="..\Tarefa5.Domain\Tarefa5.Domain.csproj" />
   </ItemGroup>
 

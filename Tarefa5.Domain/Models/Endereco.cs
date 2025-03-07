@@ -4,7 +4,6 @@ namespace Tarefa5.Domain.Models
 {
     public class Endereco : Base
     {
-        public Guid Id { get; set; }
         public string Rua { get; set; }
         public string Numero { get; set; }
         public string? Complemento { get; set; }
