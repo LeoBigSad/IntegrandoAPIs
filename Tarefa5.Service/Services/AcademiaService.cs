@@ -30,7 +30,7 @@ namespace Tarefa5.Application.Services
         public async Task<bool> DeletarAsync(Guid id)
         {
             var result = await _academiaRepository.DeleteAcademiaAsync(id);
-            return result != null;
+            return result;
         }
     }
 }

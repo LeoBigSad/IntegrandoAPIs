@@ -24,11 +24,11 @@ namespace Tarefa5.Data.Rest.Repository
         }   
         public async Task<Academia> UpdateAcademiaAsync(Academia academia)
         {
-            return await PutAsync<Academia>("", academia);
+            return await PutAsync<Academia>($"/{academia.Id}", academia);
         }
-        public async Task<Academia> DeleteAcademiaAsync(Guid id)
+        public async Task<bool> DeleteAcademiaAsync(Guid id)
         {
-            return await DeleteAsync<Academia>($"/{id}");
+            return await DeleteAsync($"/{id}");
         }
     }
 }

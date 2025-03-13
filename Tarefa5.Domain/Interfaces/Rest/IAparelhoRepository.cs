@@ -8,6 +8,6 @@ namespace Tarefa5.Domain.Interfaces.Rest
         Task<Aparelho> GetAparelhoByIdAsync(Guid id);
         Task<Aparelho> CreateAparelhoAsync(Aparelho aparelho);
         Task<Aparelho> UpdateAparelhoAsync(Aparelho aparelho);
-        Task<Aparelho> DeleteAparelhoAsync(Guid id);
+        Task<bool> DeleteAparelhoAsync(Guid id);
     }
 }

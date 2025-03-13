@@ -512,39 +512,27 @@
         "properties": {
           "id": {
             "type": "string",
-            "format": "uuid",
-            "readOnly": true
+            "format": "uuid"
           },
           "createdDate": {
             "type": "string",
-            "format": "date-time",
-            "readOnly": true
+            "format": "date-time"
           },
           "updatedDate": {
             "type": "string",
             "format": "date-time",
-            "nullable": true,
-            "readOnly": true
+            "nullable": true
           },
           "removedDate": {
             "type": "string",
             "format": "date-time",
-            "nullable": true,
-            "readOnly": true
+            "nullable": true
           },
           "removed": {
-            "type": "boolean",
-            "readOnly": true
+            "type": "boolean"
           },
           "name": {
             "type": "string",
-            "nullable": true
-          },
-          "aparelho": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Aparelho"
-            },
             "nullable": true
           }
         },
@@ -555,36 +543,28 @@
         "properties": {
           "id": {
             "type": "string",
-            "format": "uuid",
-            "readOnly": true
+            "format": "uuid"
           },
           "createdDate": {
             "type": "string",
-            "format": "date-time",
-            "readOnly": true
+            "format": "date-time"
           },
           "updatedDate": {
             "type": "string",
             "format": "date-time",
-            "nullable": true,
-            "readOnly": true
+            "nullable": true
           },
           "removedDate": {
             "type": "string",
             "format": "date-time",
-            "nullable": true,
-            "readOnly": true
+            "nullable": true
           },
           "removed": {
-            "type": "boolean",
-            "readOnly": true
+            "type": "boolean"
           },
           "name": {
             "type": "string",
             "nullable": true
-          },
-          "academia": {
-            "$ref": "#/components/schemas/Academia"
           }
         },
         "additionalProperties": false
@@ -592,11 +572,6 @@
       "Endereco": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "string",
-            "format": "uuid",
-            "readOnly": true
-          },
           "createdDate": {
             "type": "string",
             "format": "date-time",
@@ -617,6 +592,10 @@
           "removed": {
             "type": "boolean",
             "readOnly": true
+          },
+          "id": {
+            "type": "string",
+            "format": "uuid"
           },
           "rua": {
             "type": "string",

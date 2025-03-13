@@ -2,6 +2,8 @@
 {
     public abstract class Base
     {
+        
+
         public Guid Id { get; private set; }
         public DateTime CreatedDate { get; private set; }
         public DateTime? UpdatedDate { get; private set; }
@@ -10,7 +12,10 @@
 
         protected Base(Guid id = default)
         {
-            Id = id == default ? Guid.NewGuid() : id;
+            if (id != default)
+            {
+                Id = id;
+            }
             CreatedDate = DateTime.UtcNow;
             Removed = false;
         }

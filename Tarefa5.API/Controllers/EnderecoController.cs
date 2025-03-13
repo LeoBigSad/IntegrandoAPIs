@@ -51,6 +51,6 @@ public class EnderecoController : ControllerBase
     public async Task<IActionResult> Delete(Guid id)
     {
         var sucesso = await _enderecoService.DeletarAsync(id);
-        return sucesso ? NoContent() : NotFound();
+        return sucesso ? Accepted() : NotFound();
     }
 }

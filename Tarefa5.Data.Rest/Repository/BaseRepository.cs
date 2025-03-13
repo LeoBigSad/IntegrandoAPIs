@@ -1,4 +1,5 @@
-﻿using RestSharp;
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+using RestSharp;
 
 namespace Tarefa5.Data.Rest.Repository
 {
@@ -34,17 +35,17 @@ namespace Tarefa5.Data.Rest.Repository
             var request = new RestRequest(endpoint, Method.Put);
             request.AddJsonBody(body);
             var response = await _client.ExecuteAsync<T>(request);
-            if (!response.IsSuccessful || response.Data == null)
+            if (response.StatusCode != System.Net.HttpStatusCode.OK)
                 throw new Exception($"Request failed: {response.ErrorMessage}");
             return response.Data;
         }
-        public async Task<T> DeleteAsync<T>(string endpoint) where T : new()
+        public async Task<bool> DeleteAsync(string endpoint)
         {
             var request = new RestRequest(endpoint, Method.Delete);
-            var response = await _client.ExecuteAsync<T>(request);
-            if (!response.IsSuccessful || response.Data == null)
+            var response = await _client.ExecuteAsync(request);
+            if (response.StatusCode != System.Net.HttpStatusCode.Accepted)
                 throw new Exception($"Request failed: {response.ErrorMessage}");
-            return response.Data;
+            return response.IsSuccessful;
         }
     }
 }

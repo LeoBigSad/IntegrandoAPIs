@@ -24,11 +24,11 @@ namespace Tarefa5.Data.Rest.Repository
         }
         public async Task<Aparelho> UpdateAparelhoAsync(Aparelho aparelho)
         {
-            return await PutAsync<Aparelho>("", aparelho);
+            return await PutAsync<Aparelho>($"/{aparelho.Id}", aparelho);
         }
-        public async Task<Aparelho> DeleteAparelhoAsync(Guid id)
+        public async Task<bool> DeleteAparelhoAsync(Guid id)
         {
-            return await DeleteAsync<Aparelho>($"/{id}");
+            return await DeleteAsync($"/{id}");
         }
     }
 }

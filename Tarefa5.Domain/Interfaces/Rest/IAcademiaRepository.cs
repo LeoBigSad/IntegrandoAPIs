@@ -8,6 +8,6 @@ namespace Tarefa5.Domain.Interfaces.Rest
         Task<Academia> GetAcademiaByIdAsync(Guid id);
         Task<Academia> CreateAcademiaAsync(Academia academia);
         Task<Academia> UpdateAcademiaAsync(Academia academia);
-        Task<Academia> DeleteAcademiaAsync(Guid id);
+        Task<bool> DeleteAcademiaAsync(Guid id);
     }
 }
