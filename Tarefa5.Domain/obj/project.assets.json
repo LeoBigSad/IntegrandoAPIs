@@ -3489,23 +3489,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrador\\.nuget\\packages\\": {},
+    "C:\\Users\\fezer\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Tarefa5.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\IntegrandoAPIs\\Tarefa5.Domain\\Tarefa5.Domain.csproj",
       "projectName": "Tarefa5.Domain",
-      "projectPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Tarefa5.Domain.csproj",
-      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\obj\\",
+      "projectPath": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\IntegrandoAPIs\\Tarefa5.Domain\\Tarefa5.Domain.csproj",
+      "packagesPath": "C:\\Users\\fezer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fezer\\OneDrive\\Ambiente de Trabalho\\Linguagem C\\IntegrandoAPIs\\Tarefa5.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fezer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3514,6 +3514,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3531,8 +3532,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -3583,7 +3583,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
