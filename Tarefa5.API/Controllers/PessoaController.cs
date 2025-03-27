@@ -9,8 +9,8 @@ namespace Tarefa5.API.Controllers
     public class PessoaController(IPessoaService pessoaService) : ControllerBase
     {
 
-        [HttpGet]
-        public async Task<IActionResult> Get() => Ok(await pessoaService.BuscarTodosAsync());
+        [HttpGet("{page}/{perPage}")]
+        public async Task<IActionResult> Get([FromRoute] int page, [FromRoute] int perPage ) => Ok(await pessoaService.BuscarTodosAsync(page, perPage));
 
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(Guid id)
@@ -23,10 +23,15 @@ namespace Tarefa5.API.Controllers
         public async Task<IActionResult> Post([FromBody] Pessoa pessoa) => Ok(await pessoaService.CriarAsync(pessoa));
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> Put([FromBody] Pessoa pessoa) => Ok(await pessoaService.AtualizarAsync(pessoa));
+        public async Task<IActionResult> Put([FromBody] Pessoa pessoa, [FromRoute] Guid id)
+        {
+          pessoa.Id = id;
+          return  Ok(await pessoaService.AtualizarAsync(pessoa));
+        }
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(Guid id) {
+        public async Task<IActionResult> Delete(Guid id)
+        {
             var sucesso = await pessoaService.DeletarAsync(id);
             return sucesso ? Accepted() : NotFound();
         }

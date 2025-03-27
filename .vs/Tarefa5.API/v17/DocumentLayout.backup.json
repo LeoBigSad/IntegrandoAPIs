@@ -3,6 +3,114 @@
   "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.api\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|solutionrelative:tarefa5.api\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|solutionrelative:tarefa5.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.service\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|solutionrelative:tarefa5.service\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.service\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|solutionrelative:tarefa5.service\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\service\\ipessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\service\\ipessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\repository\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\repository\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C16A0EE-565B-40E3-8C3F-BEFB13DA47D9}|Tarefa5.Data\\Tarefa5.Data.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data\\tarefa5.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C16A0EE-565B-40E3-8C3F-BEFB13DA47D9}|Tarefa5.Data\\Tarefa5.Data.csproj|solutionrelative:tarefa5.data\\tarefa5.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\models\\pessoaendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\models\\pessoaendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.api\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|solutionrelative:tarefa5.api\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\repository\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\repository\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\rest\\iaparelhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\rest\\iaparelhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\rest\\iacademiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\rest\\iacademiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\models\\academia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\models\\academia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\entity\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\entity\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\service\\ienderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\service\\ienderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C16A0EE-565B-40E3-8C3F-BEFB13DA47D9}|Tarefa5.Data\\Tarefa5.Data.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C16A0EE-565B-40E3-8C3F-BEFB13DA47D9}|Tarefa5.Data\\Tarefa5.Data.csproj|solutionrelative:tarefa5.data\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\context\\postgresdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\context\\postgresdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\configuration\\pessoaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\configuration\\pessoaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\postgres\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\postgres\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\models\\aparelho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\models\\aparelho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.service\\services\\aparelhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|solutionrelative:tarefa5.service\\services\\aparelhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\tarefa5.data.postgres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\tarefa5.data.postgres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\configuration\\enderecoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\configuration\\enderecoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.api\\controllers\\aparelhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|solutionrelative:tarefa5.api\\controllers\\aparelhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,36 +123,12 @@
       "RelativeMoniker": "D:0:0:{5A6509CC-DFEE-42F1-AF4C-AD7C3F3836EE}|Tarefa5.Data.Rest\\Tarefa5.Data.Rest.csproj|solutionrelative:tarefa5.data.rest\\repository\\aparelhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.service\\services\\aparelhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|solutionrelative:tarefa5.service\\services\\aparelhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\rest\\iaparelhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\rest\\iaparelhorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A6509CC-DFEE-42F1-AF4C-AD7C3F3836EE}|Tarefa5.Data.Rest\\Tarefa5.Data.Rest.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.rest\\repository\\academiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A6509CC-DFEE-42F1-AF4C-AD7C3F3836EE}|Tarefa5.Data.Rest\\Tarefa5.Data.Rest.csproj|solutionrelative:tarefa5.data.rest\\repository\\academiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A6509CC-DFEE-42F1-AF4C-AD7C3F3836EE}|Tarefa5.Data.Rest\\Tarefa5.Data.Rest.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.rest\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A6509CC-DFEE-42F1-AF4C-AD7C3F3836EE}|Tarefa5.Data.Rest\\Tarefa5.Data.Rest.csproj|solutionrelative:tarefa5.data.rest\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\models\\academia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\models\\academia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\models\\aparelho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\models\\aparelho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\entity\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\entity\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|solutionrelative:tarefa5.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\service\\iaparelhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,68 +139,8 @@
       "RelativeMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|solutionrelative:tarefa5.service\\services\\academiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.api\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|solutionrelative:tarefa5.api\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.api\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|solutionrelative:tarefa5.api\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\rest\\iacademiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\rest\\iacademiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\postgres\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\postgres\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\models\\pessoaendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\models\\pessoaendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.service\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|solutionrelative:tarefa5.service\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\service\\iacademiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\service\\iacademiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.service\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70076856-92B0-459E-9C69-BD6989AA7D0C}|Tarefa5.Service\\Tarefa5.Application.csproj|solutionrelative:tarefa5.service\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\repository\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\repository\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\service\\ienderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\service\\ienderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\repository\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\repository\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\service\\ipessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\service\\ipessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.domain\\interfaces\\repository\\iendere\u00E7orepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,20 +151,12 @@
       "RelativeMoniker": "D:0:0:{36D50BD8-72FB-4733-B239-7C612CCD0C09}|Tarefa5.Domain\\Tarefa5.Domain.csproj|solutionrelative:tarefa5.domain\\interfaces\\repository\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\context\\postgresdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\context\\postgresdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\context\\postgresdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\context\\postgresdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|solutionrelative:tarefa5.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C16A0EE-565B-40E3-8C3F-BEFB13DA47D9}|Tarefa5.Data\\Tarefa5.Data.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C16A0EE-565B-40E3-8C3F-BEFB13DA47D9}|Tarefa5.Data\\Tarefa5.Data.csproj|solutionrelative:tarefa5.data\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\migrations\\20250228143155_datanascimentoparadateonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -162,23 +178,11 @@
       "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\configuration\\pessoaenderecoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\configuration\\pessoaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\configuration\\pessoaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\configuration\\enderecoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\configuration\\enderecoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\migrations\\20250227202746_projetoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\migrations\\20250227202746_projetoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.Data.Postgres\\Migrations\\20250228133640_AjustandoDateTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.data.postgres\\tarefa5.data.postgres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0AF2B058-553B-4FFE-8EFB-CD1C4B219643}|Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj|solutionrelative:tarefa5.data.postgres\\tarefa5.data.postgres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{322228BB-A1B7-4619-9250-B3491B9484F8}|Tarefa5.API\\Tarefa5.API.csproj|c:\\users\\administrador\\source\\repos\\tarefa5 integrando academia\\tarefa5.api\\tarefa5.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -196,37 +200,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AparelhoService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\AparelhoService.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Service\\Services\\AparelhoService.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\AparelhoService.cs",
-              "RelativeToolTip": "Tarefa5.Service\\Services\\AparelhoService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIA6wCAAAABAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\PessoaService.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Service\\Services\\PessoaService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\PessoaService.cs",
+              "RelativeToolTip": "Tarefa5.Service\\Services\\PessoaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:17:35.04Z",
+              "WhenOpened": "2025-02-27T17:42:51.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "Tarefa5.API\\Controllers\\PessoaController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\PessoaController.cs*",
+              "RelativeToolTip": "Tarefa5.API\\Controllers\\PessoaController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:24:01.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Program.cs",
               "RelativeDocumentMoniker": "Tarefa5.API\\Program.cs",
               "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Program.cs",
               "RelativeToolTip": "Tarefa5.API\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAzczMzMwSwB4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T17:27:30.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAparelhoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Rest\\IAparelhoRepository.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Rest\\IAparelhoRepository.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Rest\\IAparelhoRepository.cs",
+              "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Rest\\IAparelhoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:07:31.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "Tarefa5.API\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "Tarefa5.API\\Controllers\\EnderecoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:23:59.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Repository\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "Tarefa5.Data.Postgres\\Repository\\RepositoryBase.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:08:45.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PessoaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Repository\\PessoaRepository.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Repository\\PessoaRepository.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Repository\\PessoaRepository.cs",
+              "RelativeToolTip": "Tarefa5.Data.Postgres\\Repository\\PessoaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:56:29.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Repository\\EnderecoRepository.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Repository\\EnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Repository\\EnderecoRepository.cs",
+              "RelativeToolTip": "Tarefa5.Data.Postgres\\Repository\\EnderecoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:57:43.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnderecoService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\EnderecoService.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Service\\Services\\EnderecoService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\EnderecoService.cs",
+              "RelativeToolTip": "Tarefa5.Service\\Services\\EnderecoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:21:06.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPessoaService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Service\\IPessoaService.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Service\\IPessoaService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Service\\IPessoaService.cs",
+              "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Service\\IPessoaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:43:12.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Tarefa5.Data",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data\\Tarefa5.Data.csproj",
+              "RelativeDocumentMoniker": "Tarefa5.Data\\Tarefa5.Data.csproj",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data\\Tarefa5.Data.csproj",
+              "RelativeToolTip": "Tarefa5.Data\\Tarefa5.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T20:04:28.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PessoaEndereco.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\PessoaEndereco.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Domain\\Models\\PessoaEndereco.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\PessoaEndereco.cs",
+              "RelativeToolTip": "Tarefa5.Domain\\Models\\PessoaEndereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:21:21.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAcademiaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Rest\\IAcademiaRepository.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Rest\\IAcademiaRepository.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Rest\\IAcademiaRepository.cs",
+              "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Rest\\IAcademiaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:07:22.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Academia.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Academia.cs",
               "RelativeDocumentMoniker": "Tarefa5.Domain\\Models\\Academia.cs",
@@ -240,71 +387,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Endereco.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Endereco.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Domain\\Models\\Endereco.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Endereco.cs",
-              "RelativeToolTip": "Tarefa5.Domain\\Models\\Endereco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Domain\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Tarefa5.Domain\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:22:16.568Z",
+              "WhenOpened": "2025-02-27T17:35:45.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Repository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Repository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:22:49.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEnderecoService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Service\\IEnderecoService.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Service\\IEnderecoService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Service\\IEnderecoService.cs",
+              "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Service\\IEnderecoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:21:52.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Base.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Entity\\Base.cs",
               "RelativeDocumentMoniker": "Tarefa5.Domain\\Entity\\Base.cs",
               "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Entity\\Base.cs",
               "RelativeToolTip": "Tarefa5.Domain\\Entity\\Base.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T19:12:36.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AcademiaController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\AcademiaController.cs",
-              "RelativeDocumentMoniker": "Tarefa5.API\\Controllers\\AcademiaController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\AcademiaController.cs",
-              "RelativeToolTip": "Tarefa5.API\\Controllers\\AcademiaController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "PessoaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Configuration\\PessoaConfiguration.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Configuration\\PessoaConfiguration.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Configuration\\PessoaConfiguration.cs",
+              "RelativeToolTip": "Tarefa5.Data.Postgres\\Configuration\\PessoaConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:29:40.518Z",
+              "WhenOpened": "2025-02-27T20:04:06.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AparelhoController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\AparelhoController.cs",
-              "RelativeDocumentMoniker": "Tarefa5.API\\Controllers\\AparelhoController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\AparelhoController.cs",
-              "RelativeToolTip": "Tarefa5.API\\Controllers\\AparelhoController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAmwC0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Domain\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Endereco.cs",
+              "RelativeToolTip": "Tarefa5.Domain\\Models\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:29:06.118Z",
+              "WhenOpened": "2025-02-27T17:22:16.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AparelhoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Rest\\Repository\\AparelhoRepository.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Data.Rest\\Repository\\AparelhoRepository.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Rest\\Repository\\AparelhoRepository.cs",
-              "RelativeToolTip": "Tarefa5.Data.Rest\\Repository\\AparelhoRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAD4vxgAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Data\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Tarefa5.Data\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T18:33:45.176Z",
+              "WhenOpened": "2025-02-27T19:17:05.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
+              "Title": "PostgresDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Context\\PostgresDbContext.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Context\\PostgresDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Context\\PostgresDbContext.cs",
+              "RelativeToolTip": "Tarefa5.Data.Postgres\\Context\\PostgresDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:31:35.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Postgres\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Postgres\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Postgres\\IRepositoryBase.cs",
+              "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Postgres\\IRepositoryBase.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:11:14.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Aparelho.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Aparelho.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Domain\\Models\\Aparelho.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Aparelho.cs",
+              "RelativeToolTip": "Tarefa5.Domain\\Models\\Aparelho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:27:52.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "AcademiaRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Rest\\Repository\\AcademiaRepository.cs",
               "RelativeDocumentMoniker": "Tarefa5.Data.Rest\\Repository\\AcademiaRepository.cs",
@@ -312,38 +524,84 @@
               "RelativeToolTip": "Tarefa5.Data.Rest\\Repository\\AcademiaRepository.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAIwBoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T18:23:50.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T18:23:50.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAparelhoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Rest\\IAparelhoRepository.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Rest\\IAparelhoRepository.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Rest\\IAparelhoRepository.cs",
-              "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Rest\\IAparelhoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "AparelhoService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\AparelhoService.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Service\\Services\\AparelhoService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\AparelhoService.cs",
+              "RelativeToolTip": "Tarefa5.Service\\Services\\AparelhoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:07:31.198Z",
+              "WhenOpened": "2025-03-07T18:17:35.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Tarefa5.Data.Postgres.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj",
+              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj",
+              "RelativeToolTip": "Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj",
+              "ViewState": "AgIAAAYAAABgZmZmZmYkwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T18:53:51.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PessoaController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\PessoaController.cs",
-              "RelativeDocumentMoniker": "Tarefa5.API\\Controllers\\PessoaController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\PessoaController.cs",
-              "RelativeToolTip": "Tarefa5.API\\Controllers\\PessoaController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "EnderecoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Configuration\\EnderecoConfiguration.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Configuration\\EnderecoConfiguration.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Configuration\\EnderecoConfiguration.cs",
+              "RelativeToolTip": "Tarefa5.Data.Postgres\\Configuration\\EnderecoConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:24:01.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T20:12:24.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 29,
+              "Title": "AparelhoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Rest\\Repository\\AparelhoRepository.cs",
+              "RelativeDocumentMoniker": "Tarefa5.Data.Rest\\Repository\\AparelhoRepository.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Rest\\Repository\\AparelhoRepository.cs",
+              "RelativeToolTip": "Tarefa5.Data.Rest\\Repository\\AparelhoRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vxgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:33:45.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AparelhoController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\AparelhoController.cs",
+              "RelativeDocumentMoniker": "Tarefa5.API\\Controllers\\AparelhoController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\AparelhoController.cs",
+              "RelativeToolTip": "Tarefa5.API\\Controllers\\AparelhoController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA9wC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:29:06.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AcademiaController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\AcademiaController.cs",
+              "RelativeDocumentMoniker": "Tarefa5.API\\Controllers\\AcademiaController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\AcademiaController.cs",
+              "RelativeToolTip": "Tarefa5.API\\Controllers\\AcademiaController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:29:40.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Rest\\Repository\\BaseRepository.cs",
               "RelativeDocumentMoniker": "Tarefa5.Data.Rest\\Repository\\BaseRepository.cs",
@@ -351,12 +609,11 @@
               "RelativeToolTip": "Tarefa5.Data.Rest\\Repository\\BaseRepository.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAMwCUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T18:20:27.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T18:20:27.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 33,
               "Title": "AcademiaService.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\AcademiaService.cs",
               "RelativeDocumentMoniker": "Tarefa5.Service\\Services\\AcademiaService.cs",
@@ -364,25 +621,11 @@
               "RelativeToolTip": "Tarefa5.Service\\Services\\AcademiaService.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAApwBsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:18:34.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T18:18:34.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Aparelho.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Aparelho.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Domain\\Models\\Aparelho.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Aparelho.cs",
-              "RelativeToolTip": "Tarefa5.Domain\\Models\\Aparelho.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T18:27:52.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 32,
               "Title": "IAparelhoService.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Service\\IAparelhoService.cs",
               "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Service\\IAparelhoService.cs",
@@ -390,74 +633,11 @@
               "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Service\\IAparelhoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:18:08.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T18:18:08.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EnderecoController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\EnderecoController.cs",
-              "RelativeDocumentMoniker": "Tarefa5.API\\Controllers\\EnderecoController.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Controllers\\EnderecoController.cs",
-              "RelativeToolTip": "Tarefa5.API\\Controllers\\EnderecoController.cs",
-              "ViewState": "AgIAAAoAAAAANDMzMzPjvyoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:23:59.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IAcademiaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Rest\\IAcademiaRepository.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Rest\\IAcademiaRepository.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Rest\\IAcademiaRepository.cs",
-              "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Rest\\IAcademiaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T18:07:22.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Postgres\\IRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Postgres\\IRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Postgres\\IRepositoryBase.cs",
-              "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Postgres\\IRepositoryBase.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:11:14.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PessoaEndereco.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\PessoaEndereco.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Domain\\Models\\PessoaEndereco.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\PessoaEndereco.cs",
-              "RelativeToolTip": "Tarefa5.Domain\\Models\\PessoaEndereco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T20:21:21.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Domain\\Models\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Models\\Pessoa.cs",
-              "RelativeToolTip": "Tarefa5.Domain\\Models\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:35:45.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 34,
               "Title": "IAcademiaService.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Service\\IAcademiaService.cs",
               "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Service\\IAcademiaService.cs",
@@ -469,103 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PessoaService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\PessoaService.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Service\\Services\\PessoaService.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\PessoaService.cs",
-              "RelativeToolTip": "Tarefa5.Service\\Services\\PessoaService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:42:51.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "EnderecoService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\EnderecoService.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Service\\Services\\EnderecoService.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Service\\Services\\EnderecoService.cs",
-              "RelativeToolTip": "Tarefa5.Service\\Services\\EnderecoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:21:06.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "PessoaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Repository\\PessoaRepository.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Repository\\PessoaRepository.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Repository\\PessoaRepository.cs",
-              "RelativeToolTip": "Tarefa5.Data.Postgres\\Repository\\PessoaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:56:29.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Repository\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Repository\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Repository\\RepositoryBase.cs",
-              "RelativeToolTip": "Tarefa5.Data.Postgres\\Repository\\RepositoryBase.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAD4v1wAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:08:45.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IEnderecoService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Service\\IEnderecoService.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Service\\IEnderecoService.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Service\\IEnderecoService.cs",
-              "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Service\\IEnderecoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:21:52.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "EnderecoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Repository\\EnderecoRepository.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Repository\\EnderecoRepository.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Repository\\EnderecoRepository.cs",
-              "RelativeToolTip": "Tarefa5.Data.Postgres\\Repository\\EnderecoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:57:43.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IPessoaService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Service\\IPessoaService.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Service\\IPessoaService.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Service\\IPessoaService.cs",
-              "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Service\\IPessoaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:43:12.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Repository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Repository\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Repository\\IUnitOfWork.cs",
-              "RelativeToolTip": "Tarefa5.Domain\\Interfaces\\Repository\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:22:49.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "IEndere\u00E7oRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Repository\\IEndere\u00E7oRepository.cs",
               "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Repository\\IEndere\u00E7oRepository.cs",
@@ -577,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "IPessoaRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Domain\\Interfaces\\Repository\\IPessoaRepository.cs",
               "RelativeDocumentMoniker": "Tarefa5.Domain\\Interfaces\\Repository\\IPessoaRepository.cs",
@@ -589,19 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "PostgresDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Context\\PostgresDbContext.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Context\\PostgresDbContext.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Context\\PostgresDbContext.cs",
-              "RelativeToolTip": "Tarefa5.Data.Postgres\\Context\\PostgresDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:31:35.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "PostgresDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Context\\PostgresDbContextFactory.cs",
               "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Context\\PostgresDbContextFactory.cs",
@@ -613,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\appsettings.json",
               "RelativeDocumentMoniker": "Tarefa5.API\\appsettings.json",
@@ -625,19 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data\\Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Data\\Repository\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data\\Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "Tarefa5.Data\\Repository\\UnitOfWork.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAADwvyMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T19:17:05.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "20250228143155_DataNascimentoParaDateOnly.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Migrations\\20250228143155_DataNascimentoParaDateOnly.cs",
               "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Migrations\\20250228143155_DataNascimentoParaDateOnly.cs",
@@ -649,19 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "PessoaConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Configuration\\PessoaConfiguration.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Configuration\\PessoaConfiguration.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Configuration\\PessoaConfiguration.cs",
-              "RelativeToolTip": "Tarefa5.Data.Postgres\\Configuration\\PessoaConfiguration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T20:04:06.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "20250228134105_CorrigindoDataNascimentoParaDate.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Migrations\\20250228134105_CorrigindoDataNascimentoParaDate.cs",
               "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Migrations\\20250228134105_CorrigindoDataNascimentoParaDate.cs",
@@ -673,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "20250228142336_ArrumandoIDparaGUID.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Migrations\\20250228142336_ArrumandoIDparaGUID.cs",
               "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Migrations\\20250228142336_ArrumandoIDparaGUID.cs",
@@ -685,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "20250228152858_AjustandoProblemasNpraN.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.Data.Postgres\\Migrations\\20250228152858_AjustandoProblemasNpraN.cs",
               "RelativeDocumentMoniker": "..\\Tarefa5\\Tarefa5.Data.Postgres\\Migrations\\20250228152858_AjustandoProblemasNpraN.cs",
@@ -696,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "PessoaEnderecoConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Configuration\\PessoaEnderecoConfiguration.cs",
               "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Configuration\\PessoaEnderecoConfiguration.cs",
@@ -708,19 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "EnderecoConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Configuration\\EnderecoConfiguration.cs",
-              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Configuration\\EnderecoConfiguration.cs",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Configuration\\EnderecoConfiguration.cs",
-              "RelativeToolTip": "Tarefa5.Data.Postgres\\Configuration\\EnderecoConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T20:12:24.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "20250227202746_ProjetoInicial.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Migrations\\20250227202746_ProjetoInicial.cs",
               "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Migrations\\20250227202746_ProjetoInicial.cs",
@@ -732,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "20250228133640_AjustandoDateTime.cs",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5\\Tarefa5.Data.Postgres\\Migrations\\20250228133640_AjustandoDateTime.cs",
               "RelativeDocumentMoniker": "..\\Tarefa5\\Tarefa5.Data.Postgres\\Migrations\\20250228133640_AjustandoDateTime.cs",
@@ -743,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "Tarefa5.API.csproj",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Tarefa5.API.csproj",
               "RelativeDocumentMoniker": "Tarefa5.API\\Tarefa5.API.csproj",
@@ -751,11 +787,12 @@
               "RelativeToolTip": "Tarefa5.API\\Tarefa5.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-27T18:55:28.008Z"
+              "WhenOpened": "2025-02-27T18:55:28.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Tarefa5.API\\Properties\\launchSettings.json",
@@ -764,18 +801,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-27T18:20:51.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Tarefa5.Data.Postgres.csproj",
-              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj",
-              "RelativeDocumentMoniker": "Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj",
-              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Tarefa5 integrando Academia\\Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj",
-              "RelativeToolTip": "Tarefa5.Data.Postgres\\Tarefa5.Data.Postgres.csproj",
-              "ViewState": "AgIAAAYAAABgZmZmZmYkwAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-27T18:53:51.902Z"
             }
           ]
         }

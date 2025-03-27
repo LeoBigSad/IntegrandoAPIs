@@ -1,4 +1,6 @@
-﻿namespace Tarefa5.Domain.Models
+﻿using System.Text.Json.Serialization;
+
+namespace Tarefa5.Domain.Models
 {
     public class PessoaEndereco
     {

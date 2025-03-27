@@ -2,9 +2,7 @@
 {
     public abstract class Base
     {
-        
-
-        public Guid Id { get; private set; }
+        public Guid Id { get;  set; }
         public DateTime CreatedDate { get; private set; }
         public DateTime? UpdatedDate { get; private set; }
         public DateTime? RemovedDate { get; private set; }

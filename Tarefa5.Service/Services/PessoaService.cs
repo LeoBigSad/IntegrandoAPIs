@@ -1,27 +1,27 @@
-﻿using Tarefa5.Domain.Interfaces.Repository;
+﻿using Microsoft.EntityFrameworkCore;
+using Tarefa5.Domain.Interfaces.Repository;
 using Tarefa5.Domain.Interfaces.Service;
 using Tarefa5.Domain.Models;
 namespace Tarefa5.Service.Services
 {
-    public class PessoaService : IPessoaService
+    public class PessoaService(IUnitOfWork unitOfWork) : IPessoaService
     {
-        private readonly IPessoaRepository _pessoaRepository;
-        private readonly IUnitOfWork _unitOfWork;
 
-        public PessoaService(IPessoaRepository pessoaRepository, IUnitOfWork unitOfWork)
+        public async Task<IEnumerable<Pessoa>> BuscarTodosAsync(int page, int perPage)
         {
-            _pessoaRepository = pessoaRepository;
-            _unitOfWork = unitOfWork;
+            return await unitOfWork.PessoaRepository.GetFilteredAsync(
+                tracking: false,
+                include: y => y.Include(inc => inc.PessoasEnderecos),
+                predicate: x => true, 
+                orderBy: null,
+                page: page,
+                perPage: perPage
+            );
         }
 
-        public async Task<IEnumerable<Pessoa>> BuscarTodosAsync()
+        public async Task<Pessoa?> BuscarPorIdAsync(Guid id)
         {
-            return await _pessoaRepository.GetAllAsync();
-        }
-
-        public async Task<Pessoa> BuscarPorIdAsync(Guid id)
-        {
-            return await _pessoaRepository.BuscarComEnderecosAsync(id);
+            return await unitOfWork.PessoaRepository.GetByIdAsync(id);
         }
 
         public async Task<Pessoa> CriarAsync(Pessoa pessoa)
@@ -31,8 +31,8 @@ namespace Tarefa5.Service.Services
                 pessoaEndereco.PessoaId = pessoa.Id;
             }
 
-            await _pessoaRepository.InsertAsync(pessoa);
-            await _unitOfWork.CommitAsync();
+            await unitOfWork.PessoaRepository.InsertAsync(pessoa);
+            await unitOfWork.CommitAsync();
             return pessoa;
         }
 
@@ -40,18 +40,22 @@ namespace Tarefa5.Service.Services
 
         public async Task<Pessoa> AtualizarAsync(Pessoa pessoa)
         {
-            _pessoaRepository.Update(pessoa);
-            await _unitOfWork.CommitAsync();
-            return pessoa;
+            var entidadePessoa = await unitOfWork.PessoaRepository.GetByIdAsync(pessoa.Id);
+            entidadePessoa.Nome = pessoa.Nome;
+            entidadePessoa.DataNascimento = pessoa.DataNascimento;
+            entidadePessoa.PessoasEnderecos = pessoa.PessoasEnderecos;
+            unitOfWork.PessoaRepository.Update(entidadePessoa);
+            await unitOfWork.CommitAsync();
+            return entidadePessoa;
         }
 
         public async Task<bool> DeletarAsync(Guid id)
         {
-            var pessoa = await _pessoaRepository.GetByIdAsync(id);
+            var pessoa = await unitOfWork.PessoaRepository.GetByIdAsync(id);
             if (pessoa == null) return false;
 
-            _pessoaRepository.Delete(pessoa);
-            await _unitOfWork.CommitAsync();
+            unitOfWork.PessoaRepository.Delete(pessoa);
+            await unitOfWork.CommitAsync();
             return true;
         }
     }

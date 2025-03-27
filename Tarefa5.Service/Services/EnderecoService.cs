@@ -1,51 +1,51 @@
-﻿using Tarefa5.Domain.Interfaces.Repository;
+﻿using Microsoft.EntityFrameworkCore;
+using Tarefa5.Domain.Interfaces.Repository;
 using Tarefa5.Domain.Interfaces.Service;
 using Tarefa5.Domain.Models;
 
 namespace Tarefa5.Service.Services
 {
-    public class EnderecoService : IEnderecoService
+    public class EnderecoService(IUnitOfWork unitOfWork) : IEnderecoService
     {
-        private readonly IEnderecoRepository _enderecoRepository;
-        private readonly IUnitOfWork _unitOfWork;
 
-        public EnderecoService(IEnderecoRepository enderecoRepository, IUnitOfWork unitOfWork)
+        public async Task<IEnumerable<Endereco>> BuscarTodosAsync(int page, int perPage)
         {
-            _enderecoRepository = enderecoRepository;
-            _unitOfWork = unitOfWork;
+            return await unitOfWork.EnderecoRepository.GetFilteredAsync(
+                tracking: false,
+                include: y => y.Include(inc => inc.PessoasEnderecos),
+                predicate: x => true,
+                orderBy: null,
+                page: page,
+                perPage: perPage
+            );
         }
 
-        public async Task<IEnumerable<Endereco>> BuscarTodosAsync()
+        public async Task<Endereco?> BuscarPorIdAsync(Guid id)
         {
-            return await _enderecoRepository.GetAllAsync();
-        }
-
-        public async Task<Endereco> BuscarPorIdAsync(Guid id)
-        {
-            return await _enderecoRepository.GetByIdAsync(id);
+            return await unitOfWork.EnderecoRepository.GetByIdAsync(id);
         }
 
         public async Task<Endereco> CriarAsync(Endereco endereco)
         {
-            await _enderecoRepository.InsertAsync(endereco);
-            await _unitOfWork.CommitAsync();
+            await unitOfWork.EnderecoRepository.InsertAsync(endereco);
+            await unitOfWork.CommitAsync();
             return endereco;
         }
 
         public async Task<Endereco> AtualizarAsync(Endereco endereco)
         {
-            _enderecoRepository.Update(endereco);
-            await _unitOfWork.CommitAsync();
+            unitOfWork.EnderecoRepository.Update(endereco);
+            await unitOfWork.CommitAsync();
             return endereco;
         }
 
         public async Task<bool> DeletarAsync(Guid id)
         {
-            var endereco = await _enderecoRepository.GetByIdAsync(id);
+            var endereco = await unitOfWork.EnderecoRepository.GetByIdAsync(id);
             if (endereco == null) return false;
 
-            _enderecoRepository.Delete(endereco);
-            await _unitOfWork.CommitAsync();
+            unitOfWork.EnderecoRepository.Delete(endereco);
+            await unitOfWork.CommitAsync();
             return true;
         }
     }

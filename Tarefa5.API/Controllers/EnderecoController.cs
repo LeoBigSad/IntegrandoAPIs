@@ -1,29 +1,21 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Tarefa5.Domain.Models;
 using Tarefa5.Domain.Interfaces.Service;
+using Tarefa5.Service.Services;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 
 [ApiController]
 [Route("api/[controller]")]
-public class EnderecoController : ControllerBase
+public class EnderecoController(IEnderecoService enderecoService) : ControllerBase
 {
-    private readonly IEnderecoService _enderecoService;
+    [HttpGet("{page}/{perPage}")]
+    public async Task<IActionResult> Get([FromRoute] int page, [FromRoute] int perPage) => Ok(await enderecoService.BuscarTodosAsync(page, perPage));
 
-    public EnderecoController(IEnderecoService enderecoService)
-    {
-        _enderecoService = enderecoService;
-    }
-
-    [HttpGet]
-    public async Task<IActionResult> Get()
-    {
-        var enderecos = await _enderecoService.BuscarTodosAsync();
-        return Ok(enderecos);
-    }
 
     [HttpGet("{id}")]
     public async Task<IActionResult> Get(Guid id)
     {
-        var endereco = await _enderecoService.BuscarPorIdAsync(id);
+        var endereco = await enderecoService.BuscarPorIdAsync(id);
         return endereco == null ? NotFound() : Ok(endereco);
     }
 
@@ -33,24 +25,21 @@ public class EnderecoController : ControllerBase
         if (endereco == null)
             return BadRequest("Dados inválidos.");
 
-        var novoEndereco = await _enderecoService.CriarAsync(endereco);
+        var novoEndereco = await enderecoService.CriarAsync(endereco);
         return CreatedAtAction(nameof(Get), new { id = novoEndereco.Id }, novoEndereco);
     }
 
     [HttpPut("{id}")]
-    public async Task<IActionResult> Put(Guid id, [FromBody] Endereco endereco)
+    public async Task<IActionResult> Put([FromBody] Endereco endereco, [FromRoute] Guid id)
     {
-        if (endereco == null || endereco.Id != id)
-            return BadRequest("Dados inválidos.");
-
-        var enderecoAtualizado = await _enderecoService.AtualizarAsync(endereco);
-        return Ok(enderecoAtualizado);
+        endereco.Id = id;
+        return Ok(await enderecoService.AtualizarAsync(endereco));
     }
 
     [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(Guid id)
     {
-        var sucesso = await _enderecoService.DeletarAsync(id);
+        var sucesso = await enderecoService.DeletarAsync(id);
         return sucesso ? Accepted() : NotFound();
     }
 }

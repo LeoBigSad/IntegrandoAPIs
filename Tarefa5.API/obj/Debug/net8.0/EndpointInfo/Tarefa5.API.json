@@ -255,40 +255,31 @@
         }
       }
     },
-    "/api/Endereco": {
+    "/api/Endereco/{page}/{perPage}": {
       "get": {
         "tags": [
           "Endereco"
         ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
-      "post": {
-        "tags": [
-          "Endereco"
-        ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Endereco"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Endereco"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/Endereco"
-              }
+        "parameters": [
+          {
+            "name": "page",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "perPage",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
             }
           }
-        },
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -380,40 +371,62 @@
         }
       }
     },
-    "/api/Pessoa": {
-      "get": {
-        "tags": [
-          "Pessoa"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
+    "/api/Endereco": {
       "post": {
         "tags": [
-          "Pessoa"
+          "Endereco"
         ],
         "requestBody": {
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Pessoa"
+                "$ref": "#/components/schemas/Endereco"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Pessoa"
+                "$ref": "#/components/schemas/Endereco"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Pessoa"
+                "$ref": "#/components/schemas/Endereco"
               }
             }
           }
         },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Pessoa/{page}/{perPage}": {
+      "get": {
+        "tags": [
+          "Pessoa"
+        ],
+        "parameters": [
+          {
+            "name": "page",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "perPage",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -453,7 +466,8 @@
             "in": "path",
             "required": true,
             "schema": {
-              "type": "string"
+              "type": "string",
+              "format": "uuid"
             }
           }
         ],
@@ -497,6 +511,37 @@
             }
           }
         ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Pessoa": {
+      "post": {
+        "tags": [
+          "Pessoa"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pessoa"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pessoa"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pessoa"
+              }
+            }
+          }
+        },
         "responses": {
           "200": {
             "description": "OK"
@@ -572,6 +617,10 @@
       "Endereco": {
         "type": "object",
         "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
           "createdDate": {
             "type": "string",
             "format": "date-time",
@@ -592,10 +641,6 @@
           "removed": {
             "type": "boolean",
             "readOnly": true
-          },
-          "id": {
-            "type": "string",
-            "format": "uuid"
           },
           "rua": {
             "type": "string",
@@ -640,8 +685,7 @@
         "properties": {
           "id": {
             "type": "string",
-            "format": "uuid",
-            "readOnly": true
+            "format": "uuid"
           },
           "createdDate": {
             "type": "string",

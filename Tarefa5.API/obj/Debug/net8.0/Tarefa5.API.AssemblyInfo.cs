@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarefa5.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf4c75da6036ed8ea3aee562cb5fb94e38e15a0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+788863924e823d873e3d5d473fd838348690240a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarefa5.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarefa5.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
