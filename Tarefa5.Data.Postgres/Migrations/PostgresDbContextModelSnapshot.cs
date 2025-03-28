@@ -90,7 +90,7 @@ namespace Tarefa5.Data.Postgres.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("timestamp with time zone");
 
-                    b.Property<DateOnly>("DataNascimento")
+                    b.Property<DateTime>("DataNascimento")
                         .HasColumnType("date");
 
                     b.Property<string>("Nome")
@@ -130,21 +130,17 @@ namespace Tarefa5.Data.Postgres.Migrations
 
             modelBuilder.Entity("Tarefa5.Domain.Models.PessoaEndereco", b =>
                 {
-                    b.HasOne("Tarefa5.Domain.Models.Endereco", "Endereco")
+                    b.HasOne("Tarefa5.Domain.Models.Endereco", null)
                         .WithMany("PessoasEnderecos")
                         .HasForeignKey("EnderecoId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Tarefa5.Domain.Models.Pessoa", "Pessoa")
+                    b.HasOne("Tarefa5.Domain.Models.Pessoa", null)
                         .WithMany("PessoasEnderecos")
                         .HasForeignKey("PessoaId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Endereco");
-
-                    b.Navigation("Pessoa");
                 });
 
             modelBuilder.Entity("Tarefa5.Domain.Models.Endereco", b =>
