@@ -19,6 +19,7 @@ namespace Tarefa5.Data.Postgres.Configuration
 
             builder.Property(p => p.DataNascimento)
                 .IsRequired()
+                .HasConversion(v => v.ToDateTime(TimeOnly.MinValue), v => DateOnly.FromDateTime(v))
                 .HasColumnType("date");
         }
     }
